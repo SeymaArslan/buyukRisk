@@ -8,10 +8,6 @@ package buyukrisk1;
 
 import java.awt.Color;
 
-/**
- *
- * @author Ozge
- */
 public class bilim5 extends javax.swing.JFrame {
 
     /**
