@@ -8,10 +8,6 @@ package buyukrisk1;
 
 import java.awt.Color;
 
-/**
- *
- * @author Ozge
- */
 public class spor2 extends javax.swing.JFrame {
 
     /**
