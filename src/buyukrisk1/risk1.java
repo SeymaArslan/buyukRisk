@@ -13,10 +13,6 @@ import java.awt.event.ActionEvent;
 import java.math.*;
 import java.util.*;
 
-/**
- *
- * @author Ozge
- */
 public class risk1 extends javax.swing.JFrame {
 public JTextField txt = new JTextField();
 public JLabel lbl = new JLabel();
