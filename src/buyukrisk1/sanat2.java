@@ -8,10 +8,6 @@ package buyukrisk1;
 
 import java.awt.Color;
 
-/**
- *
- * @author Ozge
- */
 public class sanat2 extends javax.swing.JFrame {
 
     /**
